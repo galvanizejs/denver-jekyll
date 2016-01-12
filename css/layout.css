@@ -1,0 +1,13 @@
+header {
+  width: 100%;
+  background: #fafafa;
+  padding: 10px 0;
+  font-size: 24px;
+}
+.nav {
+  text-align: right;
+}
+
+#content {
+  padding-top: 50px;
+}
